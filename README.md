@@ -1,5 +1,11 @@
 # 🍲 Meal App
 
+<p align="middle">
+  <img src="assets/images/base_screen.jpg" width="30%" style="margin-right: 25px;" />
+  <img src="assets/images/meals_screen.jpg" width="30%" style="margin-right: 25px;" />
+  <img src="assets/images/side_drawer.jpg" width="30%" />
+</p>
+
 An application in which you can browse through different meals, filter by preference and mark as favorite. A demo application made in flutter from this [Udemy course][course].
 
 - Flutter version: 3.3.x
